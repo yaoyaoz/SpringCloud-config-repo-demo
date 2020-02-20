@@ -1,2 +1,3 @@
 info:
-  profile:dev
+  profile: dev
+  from: git

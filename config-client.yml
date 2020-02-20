@@ -1,2 +1,5 @@
 info:
-  profile:default
+  profile: default
+  from: git1
+
+test: bbb
